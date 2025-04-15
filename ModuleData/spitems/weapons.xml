@@ -1,0 +1,584 @@
+﻿<Items>
+  <CraftedItem id="Hyl_Acolyte_Sword"
+               name="Acolyte Sword"
+               crafting_template="HyruleOneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_Acolyte_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Acolyte_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Acolyte_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Acolyte_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+	<!--CraftedItem id="Hyl_Captain_Sword"
+               name="Captain Sword"
+               crafting_template="OneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_Captain_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Captain_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Captain_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Captain_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Cav_Sword_A"
+               name="Calvary Sword A"
+               crafting_template="OneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_Cav_A_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Cav_A_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Cav_A_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Cav_A_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Cav_Sword_B"
+               name="Calvary Sword B"
+               crafting_template="OneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_Cav_B_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Cav_B_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Cav_B_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Cav_B_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Champion_Sword"
+               name="Champion Sword"
+               crafting_template="OneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_Champion_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Champion_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Champion_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Champion_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_General_Sword"
+               name="General Sword"
+               crafting_template="OneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_General_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_General_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_General_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_General_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Kingdom_Sword"
+               name="Kingdom Sword"
+               crafting_template="OneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_Kingdom_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Kingdom_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Kingdom_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Kingdom_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Knight_Sword"
+               name="Knight Sword"
+               crafting_template="OneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_Knight_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Knight_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Knight_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Knight_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Sword_Levy"
+               name="Levy Sword"
+               crafting_template="OneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_Sword_Levy_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Levy_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Levy_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Levy_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Sword_Soldier"
+               name="Soldier Sword"
+               crafting_template="OneHandedSword"
+               is_merchandise="false">
+    <Pieces>
+      <Piece id="Hyl_Sword_Soldier_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Soldier_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Soldier_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Soldier_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Spear_Levy"
+               name="Levy Spear"
+               crafting_template="TwoHandedPolearm"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Spear_Levy_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Levy_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Levy_Handle"
+             Type="Handle"
+             scale_factor="90" />
+      <Piece id="Hyl_Spear_Levy_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Spear_Soldier"
+               name="Soldier Spear"
+               crafting_template="TwoHandedPolearm"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Spear_Soldier_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Soldier_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Soldier_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Soldier_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Spear_Kingdom"
+               name="Kingdom Spear"
+               crafting_template="TwoHandedPolearm"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Spear_Kingdom_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Kingdom_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Kingdom_Handle"
+             Type="Handle"
+             scale_factor="90" />
+      <Piece id="Hyl_Spear_Kingdom_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Spear_Royal"
+               name="Royal Spear"
+               crafting_template="TwoHandedPolearm"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Spear_Royal_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Royal_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Royal_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Spear_Royal_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Lance_Gold"
+               name="Golden Lance"
+               crafting_template="Javelin"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Lance_Gold_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Lance_Gold_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Lance_Gold_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Lance_Gold_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Sword_Zelda"
+               name="Zelda's Sword"
+               crafting_template="OneHandedSword"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Sword_Zelda_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Zelda_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Zelda_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Zelda_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Sword_Krin"
+               name="Krin's Sword"
+               crafting_template="OneHandedSword"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Sword_Krin_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Krin_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Krin_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Hyl_Sword_Krin_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Mace_Levy"
+               name="Levy Mace"
+               crafting_template="Mace"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Mace_Levy_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Mace_Levy_Handle"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Mace_Soldier"
+               name="Soldier Mace"
+               crafting_template="Mace"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Mace_Soldier_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Mace_Soldier_Handle"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Hyl_Mace_Kingdom"
+               name="Kingdom Mace"
+               crafting_template="Mace"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Hyl_Mace_Kingdom_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Hyl_Mace_Kingdom_Handle"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem-->
+  <Item id="Hyl_Cane_Lana"
+        name="Magic Cane"
+        is_merchandise="true"
+        body_name="bo_mace_a"
+        recalculate_body="true"
+        mesh="hylian cane lana a full"
+        weight="0.2"
+        value="1"
+        Type="TwoHandedWeapon"
+        item_holsters="axe_back:axe_back_2:axe_back_3:axe_back_4">
+    <ItemComponent>
+      <Weapon weapon_class="TwoHandedAxe"
+              weapon_balance="100"
+              thrust_speed="79"
+              speed_rating="99"
+              physics_material="wood_weapon"
+              missile_speed="0"
+              weapon_length="83"
+              thrust_damage="6"
+              thrust_damage_type="Blunt"
+              swing_damage="5"
+              swing_damage_type="Blunt"
+              item_usage="twohanded_axe">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+	<!--Item id="Hyl_Rod_Seres"
+        name="Magic Rod"
+        is_merchandise="false"
+        body_name="bo_mace_a"
+        recalculate_body="true"
+        mesh="hylian rod seres a full"
+        weight="0.2"
+        value="1"
+        Type="OneHandedWeapon"
+        item_holsters="axe_back:axe_back_2:axe_back_3:axe_back_4">
+    <ItemComponent>
+      <Weapon weapon_class="OneHandedAxe"
+              weapon_balance="100"
+              thrust_speed="79"
+              speed_rating="99"
+              physics_material="wood_weapon"
+              missile_speed="0"
+              weapon_length="83"
+              thrust_damage="6"
+              thrust_damage_type="Blunt"
+              swing_damage="5"
+              swing_damage_type="Blunt"
+              item_usage="onehanded_axe">
+        <WeaponFlags MeleeWeapon="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <CraftedItem id="Ord_Ordon_Sword"
+               name="Ordon Sword"
+               crafting_template="OneHandedSword"
+               is_merchandise="true">
+    <Pieces>
+      <Piece id="Ord_Ordon_Sword_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Ord_Ordon_Sword_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Ord_Ordon_Sword_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Ord_Ordon_Sword_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Ord_Ordon_Spear"
+               name="Ordon Spear"
+               crafting_template="TwoHandedPolearm"
+               is_merchandise="true">
+    <Pieces>
+      <Piece id="Ord_Ordon_Spear_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Ord_Ordon_Spear_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Ord_Ordon_Spear_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Ord_Ordon_Spear_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Ord_Ordon_Axe"
+               name="Ordon Axe"
+               crafting_template="OneHandedAxe"
+               is_merchandise="true">
+    <Pieces>
+      <Piece id="Ord_Ordon_Axe_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Ord_Ordon_Axe_Handle"   
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <Item id="Ord_Ordon_throwing_Booze"
+        name="Booze Bottle"
+        is_merchandise="false"
+        body_name="bo_throwing_stone"
+        holster_body_name="bo_axe_short"
+        holster_mesh="stone_holster"
+        holster_mesh_with_weapon="stone_holster"
+        mesh="ordona booze full"
+        value="2"
+        weight="0.1"
+        appearance="0.1"
+        Type="Thrown"
+        item_holsters="throwing_stone:throwing_stone_2">
+    <ItemComponent>
+      <Weapon weapon_class="Stone"
+              ammo_class="Stone"
+              stack_amount="14"
+              physics_material="missile"
+              accuracy="45"
+              thrust_speed="102"
+              speed_rating="102"
+              missile_speed="40"
+              weapon_length="10"
+              thrust_damage="15"
+              item_usage="stone"
+              rotation="100,30,20"
+              passby_sound_code=""
+              rotation_speed="0, -3.0, 0">
+        <WeaponFlags RangedWeapon="true"
+                     Consumable="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true"
+                     UseHandAsThrowBase="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <CraftedItem id="Dar_Sword_Legatus_Adept"
+               name="Legatus Adept Sword"
+               crafting_template="TwoHandedSword"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Dar_Sword_Legatus_Adept_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Adept_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Adept_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Adept_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Dar_Sword_Legatus_Mighty"
+               name="Legatus Mighty Sword"
+               crafting_template="TwoHandedSword"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Dar_Sword_Legatus_Mighty_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Mighty_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Mighty_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Mighty_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Dar_Sword_Legatus_Master"
+               name="Legatus Master Sword"
+               crafting_template="TwoHandedSword"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Dar_Sword_Legatus_Master_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Master_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Master_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Master_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="Dar_Sword_Legatus_Legendary"
+               name="Legatus Legendary Sword"
+               crafting_template="TwoHandedSword"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="Dar_Sword_Legatus_Legendary_Blade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Legendary_Guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Legendary_Handle"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="Dar_Sword_Legatus_Legendary_Pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem-->
+</Items>

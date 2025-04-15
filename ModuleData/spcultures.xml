@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You can add new or override old culture data by adding nodes to this xml.
+For examples please refer to: SandBoxCore/ModuleData/spcultures.xml.-->
+<SPCultures>
+  <!-- Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="true"
+           color="800080"
+           color2="FFD700">
+  <\Culture>
+  <Culture id="gerudo" - Orange and tan/reddish brown
+           name="{=gerudofaction}Gerudo"
+           is_main_culture="true"
+           color="FFA500"
+           color2="e37760">
+  <\Culture>
+  <Culture id="gorons" - Red and gold
+           name="{=goronsfaction}Gorons"
+           is_main_culture="false"
+           color="FF0000"
+           color2="FFD700">
+  <\Culture>
+  <Culture id="zore"Zora - Deep blue and gold
+           name="{=zorafaction}Zora"
+           is_main_culture="false"
+           color="00416A"
+           color2="FFD700">
+  <\Culture>
+Kokiri - Bright green and gold
+  <Culture id="kokiri"
+           name="{=kokirifaction}Kokiri"
+           is_main_culture="true"
+           color="66ff00"
+           color2="FFD700">
+  <\Culture>
+Gohma - Greenish cyan and acid green
+  <!Culture id="gohma"
+           name="{=gohmafaction}Gohma"
+           is_main_culture="false"
+           color="24f4a0"
+           color2="b0bf1a">
+  <\Culture>
+Lanayru - Blue and silver
+  <Culture id="lanayru"
+           name="{=lanayrufaction}Lanayru"
+           is_main_culture="false"
+           color="0000FF"
+           color2="C0C0C0">
+  <\Culture>
+Ordona - Green and brown
+  <Culture id="ordona"
+           name="{=ordonafaction}Ordona"
+           is_main_culture="true"
+           color="00FF00"
+           color2="A52A2A">
+  <\Culture>
+Darknuts - Black and gold
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="false"
+           color="000000"
+           color2="FFD700">
+  <\Culture>
+Moblins - Poopy
+  <Culture id="moblins"
+           name="{=moblinsfaction}Moblins"
+           is_main_culture="false"
+           color="7A5901"
+           color2="9b7653">
+  <\Culture>
+Labrynna - Indigo and white
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="true"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Fairies - Varied, mostly pink
+  <Culture id="fairies"
+           name="{=fairiesfaction}Fairies"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Deku - Green and darker green
+  <Culture id="deku"
+           name="{=dekufaction}Deku"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Lizalfos - Greyish green and grey
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="true"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Sheikah - Depends on the clan, mostly red and black
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="true"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Stalfos - Black and dark grey
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="true"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Zola - Turquoise and red
+  <Culture id="zola"
+           name="{=zolafaction}Zola"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Oocca - Corroded blue and bright turquoise
+  <Culture id="oocca"
+           name="{=ooccafaction}Oocca"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+  <Culture id="horon"
+           name="{=horonfaction}Horon"
+           is_main_culture="false"
+           color="FFFFFF"
+           color2="cd7f32">
+  <\Culture>
+Wizzrobes - who knows lol
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Arcadia - white and gold
+  <Culture id="arcadia"
+           name="{=arcadiafaction}Arcadia"
+           is_main_culture="true"
+           color="FFFFFF"
+           color2="FFD700">
+  <\Culture>
+Anouki - blue and white
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="true"
+           color="730196"
+           color2="FFFFFF">
+  <\Culture>
+Ikana - white and blue
+  <Culture id="ikana"
+           name="{=ikanafaction}Ikana"
+           is_main_culture="false"
+           color="FFFFFF"
+           color2="e9ba2b">
+  <\Culture>
+Cobble - tan and gold?
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Rito - varied
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Koroks - green and white
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Lost Gorons - dark reds
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture>
+Ocean Blins - blue and black
+  <Culture id="hyrule"
+           name="{=hyrulefaction}Hyrule"
+           is_main_culture="false"
+           color="730196"
+           color2="e9ba2b">
+  <\Culture !-->
+</SPCultures>

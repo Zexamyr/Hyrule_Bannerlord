@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WeaponDescriptions>
+	<WeaponDescription
+		id="HyruleOneHandedSword"
+		weapon_class="OneHandedSword"
+		item_usage_features="onehanded:block:shield:swing:thrust">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<AvailablePiece
+				id="Hyl_Acolyte_Blade" />
+			<AvailablePiece
+				id="Hyl_Acolyte_Guard" />
+			<AvailablePiece
+				id="Hyl_Acolyte_Handle" />
+			<AvailablePiece
+				id="Hyl_Acolyte_Pommel" />
+			<!-- AvailablePieces,OneHandedSword -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleOneHandedBastardSword"
+		weapon_class="OneHandedSword"
+		item_usage_features="onehanded:block:rshield:swing:thrust">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,OneHandedBastardSword -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleOneHandedBastardSwordAlternative"
+		weapon_class="OneHandedSword"
+		item_usage_features="onehanded:block:swing:thrust">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,OneHandedBastardSwordAlternative -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleTwoHandedSword"
+		weapon_class="TwoHandedSword"
+		item_usage_features="twohanded:block:swing:thrust">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="NotUsableWithOneHand" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,TwoHandedSword -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleDagger"
+		weapon_class="Dagger"
+		item_usage_features="onehanded:block:shield:swing:thrust">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,Dagger -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleThrowingKnife"
+		weapon_class="ThrowingKnife"
+		item_usage_features="throwing:knife">
+		<WeaponFlags>
+			<WeaponFlag
+				value="RangedWeapon" />
+			<WeaponFlag
+				value="Consumable" />
+			<WeaponFlag
+				value="AmmoSticksWhenShot" />
+			<WeaponFlag
+				value="UseHandAsThrowBase" />
+			<WeaponFlag
+				value="AutoReload" />
+			<WeaponFlag
+				value="UnloadWhenSheathed" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,ThrowingKnife -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleOneHandedAxe"
+		weapon_class="OneHandedAxe"
+		item_usage_features="onehanded:shield:axe">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="BonusAgainstShield" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,OneHandedAxe -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleOneHandedBastardAxe"
+		weapon_class="OneHandedAxe"
+		item_usage_features="onehanded:rshield:axe">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="BonusAgainstShield" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,OneHandedBastardAxe -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleOneHandedBastardAxeAlternative"
+		weapon_class="OneHandedAxe"
+		item_usage_features="onehanded:axe">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="BonusAgainstShield" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,OneHandedBastardAxeAlternative -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleTwoHandedAxe"
+		weapon_class="TwoHandedAxe"
+		item_usage_features="twohanded:widegrip:axe">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="NotUsableWithOneHand" />
+			<WeaponFlag
+				value="BonusAgainstShield" />
+			<WeaponFlag
+				value="TwoHandIdleOnMount" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,TwoHandedAxe -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleThrowingAxe"
+		weapon_class="ThrowingAxe"
+		item_usage_features="throwing:axe">
+		<WeaponFlags>
+			<WeaponFlag
+				value="RangedWeapon" />
+			<WeaponFlag
+				value="Consumable" />
+			<WeaponFlag
+				value="AmmoSticksWhenShot" />
+			<WeaponFlag
+				value="UseHandAsThrowBase" />
+			<WeaponFlag
+				value="AutoReload" />
+			<WeaponFlag
+				value="UnloadWhenSheathed" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,ThrowingAxe -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleOneHandedPolearm"
+		weapon_class="OneHandedPolearm"
+		item_usage_features="onehanded_polearm:block:long:rshield:thrust">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="WideGrip" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,OneHandedPolearm -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleOneHandedPolearm_JavelinAlternative"
+		weapon_class="OneHandedPolearm"
+		item_usage_features="onehanded_polearm:block:shield:thrust">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="WideGrip" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,OneHandedPolearm_JavelinAlternative -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleTwoHandedPolearm"
+		weapon_class="TwoHandedPolearm"
+		item_usage_features="polearm:block:long:shield:swing:thrust">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="NotUsableWithOneHand" />
+			<WeaponFlag
+				value="WideGrip" />
+			<WeaponFlag
+				value="TwoHandIdleOnMount" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,TwoHandedPolearm -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleTwoHandedPolearm_Couchable"
+		weapon_class="TwoHandedPolearm"
+		item_usage_features="polearm:couch">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="WideGrip" />
+		</WeaponFlags>
+		<AvailablePieces>
+			<!-- AvailablePieces,TwoHandedPolearm_Couchable -->
+		</AvailablePieces>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleTwoHandedPolearm_Pike"
+		weapon_class="TwoHandedPolearm"
+		item_usage_features="polearm:pike">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="NotUsableWithOneHand" />
+			<WeaponFlag
+				value="WideGrip" />
+			<WeaponFlag
+				value="TwoHandIdleOnMount" />
+		</WeaponFlags>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleTwoHandedPolearm_Bracing"
+		weapon_class="TwoHandedPolearm"
+		item_usage_features="polearm:bracing">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="NotUsableWithOneHand" />
+			<WeaponFlag
+				value="WideGrip" />
+			<WeaponFlag
+				value="TwoHandIdleOnMount" />
+		</WeaponFlags>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleTwoHandedPolearm_Thrown"
+		weapon_class="Javelin"
+		item_usage_features="polearm:thrown"
+		rotated_in_hand="true"
+		use_center_of_mass_as_hand_base="true">
+		<WeaponFlags>
+			<WeaponFlag
+				value="RangedWeapon" />
+			<WeaponFlag
+				value="Consumable" />
+			<WeaponFlag
+				value="AmmoSticksWhenShot" />
+			<WeaponFlag
+				value="UseHandAsThrowBase" />
+			<WeaponFlag
+				value="AutoReload" />
+			<WeaponFlag
+				value="UnloadWhenSheathed" />
+		</WeaponFlags>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleJavelin"
+		weapon_class="Javelin"
+		item_usage_features="throwing:javelin"
+		rotated_in_hand="true"
+		use_center_of_mass_as_hand_base="true">
+		<WeaponFlags>
+			<WeaponFlag
+				value="RangedWeapon" />
+			<WeaponFlag
+				value="Consumable" />
+			<WeaponFlag
+				value="AmmoSticksWhenShot" />
+			<WeaponFlag
+				value="UseHandAsThrowBase" />
+			<WeaponFlag
+				value="AutoReload" />
+			<WeaponFlag
+				value="UnloadWhenSheathed" />
+		</WeaponFlags>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleMace"
+		weapon_class="Mace"
+		item_usage_features="onehanded:block:shield:tipdraw:swing:thrust">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+		</WeaponFlags>
+	</WeaponDescription>
+	<WeaponDescription
+		id="HyruleTwoHandedMace"
+		weapon_class="TwoHandedMace"
+		item_usage_features="twohanded:axe">
+		<WeaponFlags>
+			<WeaponFlag
+				value="MeleeWeapon" />
+			<WeaponFlag
+				value="NotUsableWithOneHand" />
+			<WeaponFlag
+				value="TwoHandIdleOnMount" />
+		</WeaponFlags>
+	</WeaponDescription>
+</WeaponDescriptions>
