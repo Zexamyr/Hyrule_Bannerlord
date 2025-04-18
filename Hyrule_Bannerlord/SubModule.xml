@@ -16,7 +16,7 @@
 	<SubModules/>
 	<Xmls>
 		<XmlNode>
-			<XmlName id="WeaponDescriptions" path="itemdescriptions"/>
+			<XmlName id="WeaponDescriptions" path="weapon_descriptions"/>
 		</XmlNode>
 		<XmlNode>
 			<XmlName id="Items" path="spitems"/>
@@ -27,7 +27,7 @@
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
-			<XmlName id="CraftingPieces" path="crafting_pieces"/>
+			<XmlName id="CraftingPieces" path="hyrule_crafting_pieces"/>
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
